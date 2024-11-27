@@ -1,0 +1,9 @@
+Ware                     Anzahl
+===============================
+Apfel                       1
+Mehl                        3
+Brot                        2
+Joghurt                     1
+Ei                          2
+Milch                       2
+Zucker                      1
